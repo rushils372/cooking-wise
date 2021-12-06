@@ -26,8 +26,8 @@ function App() {
           <Route path="/search">
             <Search />
           </Route>
-          <Route>
-            <Recipe path="/search/:id"/>
+          <Route path="/recipes/:id">
+            <Recipe />
           </Route>
         </Switch>
       </BrowserRouter>
@@ -36,3 +36,4 @@ function App() {
 }
 
 export default App
+
