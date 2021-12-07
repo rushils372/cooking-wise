@@ -6,4 +6,4 @@
 
 Download the code & run **npm install** or **npm i** to install dependencies before starting the app.
 
-For Starting the app run **npm run start** and **json-server --watch data/db.json --port 8000** both simultaneously.
+For Starting the app run **npm run start**.
