@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { useHistory } from 'react-router-dom'
 import { projectFirestore } from '../../firebase/config'
+import { useTheme } from '../../hooks/useTheme'
 
 // styles
 import './Create.css'
@@ -12,6 +13,8 @@ export default function Create() {
   const [ingredients, setIngredients] = useState([])
   const ingredientInput = useRef(null)
   const history = useHistory()
+
+  const { mode } = useTheme()
 
 
 
@@ -42,8 +45,8 @@ export default function Create() {
   // redirect the user when we get data response
 
   return (
-    <div className="create">
-      <h2 className="page-title">Add a New Recipe</h2>
+  <div className={`create ${mode}`}>
+      <h2 className={`page-title ${mode} `}>Add a New Recipe</h2>
       <form onSubmit={handleSubmit}>
         <label>
           <span>Recipe Title:</span>
@@ -89,3 +92,4 @@ export default function Create() {
     </div>
   )
 }
+
