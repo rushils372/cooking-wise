@@ -2,40 +2,51 @@
   "recipes": [
     {
       "id": "1",
-      "title": "Veggie Stew",
+      "title": "Easy chickpea and vegetable curry",
       "ingredients": [
-        "1 Carrot",
-        "1 Leek",
-        "200g Tofu",
-        "300ml Veg stock"
+        "1 cup uncooked basmati rice\r",
+        "1 medium onion, chopped\r",
+        "1 serrano pepper, chopped\r",
+        "1 small sweet potato, peeled and diced small\r",
+        "2 tbsp olive oil\r",
+        "2 can chickpeas, drained and rinsed\r",
+        "3 tbsp curry powder\r"
       ],
-      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "method": "Cook the rice. Heat oil in a large saucepan over medium heat. Add onion and serrano, cook 3-4 minutes or until onion is softened.",
       "cookingTime": "45 minutes"
     },
     {
       "id": "2",
-      "title": "Veggie Pizza",
+      "title": "Indian Chickpea Wrap",
       "ingredients": [
-        "1 Base",
-        "Tomata pasata",
+        "1 tbsp ginger, peeled",
+        "2 teaspoon fresh lime juice",
         "1 Green pepper",
-        "100g Mushrooms"
+        "4 pieces naan bread, warmed"
       ],
-      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "method": "Mix the yogurt, lime juice, cilantro and a pinch of salt in a bowl. Cover and chill until ready to use.\r\n\r\nHeat the vegetable oil in a large skillet over medium-high heat. Combine the ginger, chile, onion, cumin, and heavy pinch of salt, then add to the hot oil and cook, stirring, until most of the liquid has evaporated and the mixture is slightly toasted, about 5 minutes. \r\n\r\nStir in the chickpeas, carrots, salt and water and continue to cook, stirring, until the sauce is thick and the chickpea is heated through, about 2 more minutes. While cooking, lightly mash the chickpeas so they won't roll around when served.  Season with additional salt if necessary.\r\n\r\nDivide the chickpea filling among the naan bread. Drizzle with some of the yogurt sauce and roll up. Serve with chips.",
       "cookingTime": "35 minutes"
     },
     {
       "id": "3",
-      "title": "Greek Salad",
+      "title": "Paneer and Creamy tomato curry",
       "ingredients": [
-        "1 Onion",
-        "1 Block of Feta",
-        "Olives",
-        "Tomatoes",
-        "Olive Oil"
+        "1\/2 cup long-grain white rice, uncooked\r",
+            "1 cup water\r",
+            "<hr>",
+            "4 oz paneer cheese, medium diced\r",
+            "<hr>",
+            "2 clove garlic, roughly chopped\r",
+            "1 1-inch piece ginger, finely chopped\r",
+            "1 zucchini, halved lengthwise, then thinly slice crosswise\r",
+            "2 tbsp tomato paste\r",
+            "2 tbsp savory tomato chutney\r",
+            "1 15.5oz can chickpeas, drained and rinsed\r",
+            "1\/2 cup water\r",
+            "1\/4 cup heavy cream"
       ],
-      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
-      "cookingTime": "35 minutes"
+      "method": "1. In a small pot, combine the rice, a big pinch of salt, and water. Heat to boiling on high. Once boiling, reduce heat to low. Cover and cook, without stirring, 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff with a fork.\r\n\r\n2. While the rice cooks, in a large pan (nonstick, if you have one), heat a thin layer of oil on medium. Once the oil is hot enough that a piece of cheese sizzles immediately when added, add the diced cheese in an even layer. Cook stirring halfway through (carefully, as the cheese may pop), 4 to 6 minutes, or until lightly browned and crispy. Transfer to a paper towel-lined plate and immediately season with salt. Wipe out the pan.\r\n\r\n3. In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced zucchini, season with salt and pepper. Cook, stirring occasionally, 2-3 minutes, or until slightly softened. Add the garlic and ginger and cook, stirring frequently, for about 1 minute, or until fragrant.\r\n\r\n4. Add the tomato paste and chutney to the pan. Cook, stirring frequently, 30 seconds to 1 minute, or until thoroughly combined. Add the chickpeas and water (careful, as the liquid may splatter); season with salt and pepper. Cook stirring occasionally, 5 to 6 minutes, or until slightly thickened.\r\n\r\n5. Add the cream and browned cheese. Cook, stirring frequently, 30 seconds to 1 minute, or until thoroughly combined. Turn off the heat. Season with salt and pepper to taste. Serve the curry over the cooked rice. Enjoy!",
+      "cookingTime": "1 hour 20 minutes"
     },
     {
       "title": "Samosa",
@@ -48,28 +59,7 @@
       "method": "1. The first step to homemade samosa is to cook the potatoes and peas for the filling.\n\nTo cook the potatoes and peas in a stovetop pressure cooker: Place 3 medium-sized whole potatoes (300 to 450 grams) and 2 to 2.5 cups water in a 3 or 4 litre pressure cooker. On top of the potatoes carefully set a small trivet and pressure cooker-safe bowl with ½ cup green peas. Pressure cook for 5 to 6 whistles or 7 to 8 minutes on medium to medium-high flame.\nIf using an Instant Pot: Place 3 medium-sized whole potatoes in the steel insert of a 6 quart IP. Add 2 cups water. Place a trivet on top of the potatoes, and on top of the trivet set a bowl with ½ cup of green peas. Pressure cook on high for 20 to 25 minutes.",
       "cookingTime": "40 minutes",
       "id": "O9psNEd"
-    },
-    {
-      "title": "Samosa",
-      "ingredients": [
-        "maida",
-        "potato",
-        "red chilli",
-        "turmeric powder"
-      ],
-      "method": "1. The first step to homemade samosa is to cook the potatoes and peas for the filling.\n\nTo cook the potatoes and peas in a stovetop pressure cooker: Place 3 medium-sized whole potatoes (300 to 450 grams) and 2 to 2.5 cups water in a 3 or 4 litre pressure cooker. On top of the potatoes carefully set a small trivet and pressure cooker-safe bowl with ½ cup green peas. Pressure cook for 5 to 6 whistles or 7 to 8 minutes on medium to medium-high flame.\nIf using an Instant Pot: Place 3 medium-sized whole potatoes in the steel insert of a 6 quart IP. Add 2 cups water. Place a trivet on top of the potatoes, and on top of the trivet set a bowl with ½ cup of green peas. Pressure cook on high for 20 to 25 minutes.",
-      "cookingTime": "40 minutes",
-      "id": "n4xoDCS"
-    },
-    {
-      "title": "f23er23",
-      "ingredients": [
-        "d23de",
-        "d23d"
-      ],
-      "method": "adc2 r2r23 f r",
-      "cookingTime": "46 minutes",
-      "id": "z41LkPf"
     }
+    
   ]
 }
