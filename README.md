@@ -1,6 +1,6 @@
 ## About The Project
 
-### It is a Recipe Noting app for Smart Cooking made with ***React JS*** with its ***React Context API*** and ***React Reducers*** .
+### It is a Recipe Noting app for Smart Cooking made with ***Firebase*** , ***React JS*** with its ***React Context API*** and ***React Reducers*** .
 
 ### Normal Mode:
 
